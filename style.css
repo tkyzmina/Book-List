@@ -1,0 +1,34 @@
+.success,
+.error p {
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    color: #acb8ca;
+}
+
+.error {
+    color: red;
+}
+
+.modal {
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    transform: translate(20%);
+    background: #f6f6f6;
+    margin: 0 auto;
+    padding: 40px;
+
+    border-radius: 10px;
+}
+
+.modal p {
+    margin: 0;
+    padding: 0;
+}
+
+.hide {
+    display: none;
+}
