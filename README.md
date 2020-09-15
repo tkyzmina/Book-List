@@ -1,5 +1,5 @@
 # Book-List
-## ООП список книг с использование Local Storage
+## список книг - ES6,ООП, Local Storage
 Cодержит два js файла:
 * app.js  - ES5(тот же функционал но в ES5),
 * appes6.js  - ES6.
